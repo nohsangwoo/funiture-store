@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   title: "FurniCraft - Premium Furniture & Interior Decor",
   description:
     "Discover premium furniture and interior decor at FurniCraft. Shop our collection of modern, classic, and contemporary pieces for your dream space.",
-    generator: 'v0.dev'
+    generator: 'ludgi'
 }
 
 export default function RootLayout({
